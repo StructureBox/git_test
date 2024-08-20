@@ -1,0 +1,4 @@
+ignore.md
+ignore_dir
+
+# アスタリスクで拡張子指定が可能 例: *.md
